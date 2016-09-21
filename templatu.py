@@ -35,7 +35,7 @@ def pagedos():
 @app.route("/jklol")
 def jklol():
     return '''
-    <link rel= "stylesheet" type= "text/css" href= "/magic.css">
+    <link rel= "stylesheet" type= "text/css" href= "/static/styles/mainpage.css">
     <title>500 Internal Server Error</title>
     <h1>Internal Server Error</h1>
     <p>The server encountered an internal error and was unable to complete your request.  Either the server is overloaded or there is an error in the application.</p>

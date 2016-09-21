@@ -1,7 +1,6 @@
 h2 {
     opacity: 0;
-    transition: 1.5s;
-}
+    }
 
 h2:hover {
     opacity: 1;
